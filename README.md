@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://raw.githubusercontent.com/doongjun/doongjun/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doongjun)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **doongjun/doongjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
