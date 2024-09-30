@@ -8,6 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/doongjun/commitmon">
-    <img alt="commitmon" src="https://commitmon.me/adventure?username=doongjun" width="600px" />
+    <img alt="commitmon" src="https://commitmon.me/adventure?username=doongjun&theme=desert" width="600px" />
   </a>
 </div>
