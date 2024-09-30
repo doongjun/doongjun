@@ -4,5 +4,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doongjun)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/doongjun/commitmon">
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=doongjun" width="600px" />
+</a>
+
 - 🌱 I’m currently learning k8s and DDD
 - ⭐ I’m interested in Backend Developer
